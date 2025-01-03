@@ -1,1 +1,0 @@
-Indexing in pandas is how you find, select, and work with specific rows and columns in a DataFrame or Series. It helps you access data using row and column labels (.loc), positions (.iloc), or by applying conditions. You can also change the index to use a column as the row labels, making your data easier to work with
